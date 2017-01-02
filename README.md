@@ -1,8 +1,8 @@
-# Ubuntu 16.10 LTS (Xenial) Ansible Test Image
+# Ubuntu 16.10 LTS (Yakkety) Ansible Test Image
 
 [![Docker Automated build](https://img.shields.io/docker/automated/v0rts/docker-ubuntu1610-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-ubuntu1610-ansible/)
 
-Ubuntu 16.10 LTS (Xenial) Docker container for Ansible playbook and role testing.
+Ubuntu 16.10 LTS (Yakkety) Docker container for Ansible playbook and role testing.
 
 ## How to Build
 
