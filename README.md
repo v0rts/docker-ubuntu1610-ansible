@@ -29,5 +29,6 @@ I use Docker to test my Ansible roles and playbooks on multiple OSes using CI to
 
 ## Author
 
-Created by Chad Sailer
+Created by v0rts
+
 Inspired by [Jeff Geerling](http://jeffgeerling.com/)
